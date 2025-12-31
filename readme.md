@@ -16,7 +16,7 @@ MSc Computer Science (Data & AI) student at UQAM, passionate about machine learn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)
 
-💼 Open to Data Analyst and ML Engineer opportunities | Winter 2026 Internship
+💼 Open to Data Analyst and ML Engineer opportunities | 
 
 ---
 
