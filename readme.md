@@ -48,15 +48,7 @@ AI-powered translation application leveraging OpenAI's API for accurate bilingua
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayou-Azizkd&layout=compact&theme=radical)
-
-</div>
 
 ---
 
