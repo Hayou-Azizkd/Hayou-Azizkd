@@ -17,7 +17,7 @@
 
 I'm a graduate student specializing in Data Science and Artificial Intelligence at UQAM (Université du Québec à Montréal). I'm driven by the challenge of turning complex data into actionable insights and building intelligent systems that solve real-world problems. 
 
-Currently seeking opportunities as a **Data Analyst** or **ML Engineer**
+Currently seeking an internship in AI, Machine Learning, or Data Science, where I can apply my technical skills while continuing to learn within innovative teams.
 
 ---
 
