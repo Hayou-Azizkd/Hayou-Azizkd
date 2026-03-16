@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Abdoul Hayou Abdoul Aziz 
+# Hi, I'm Abdoul Hayou Abdoul Aziz 👋
+====
 
 ### MSc Computer Science (Data & AI) Student at UQAM
 
 *Passionate about Machine Learning, Data Analytics, and AI Innovation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hayou-Azizkd)
 
 </div>
 
@@ -17,7 +18,7 @@
 
 I'm a graduate student specializing in Data Science and Artificial Intelligence at UQAM (Université du Québec à Montréal). I'm driven by the challenge of turning complex data into actionable insights and building intelligent systems that solve real-world problems. 
 
-Currently seeking an internship in AI, Machine Learning, or Data Science, where I can apply my technical skills while continuing to learn within innovative teams.
+Currently seeking opportunities as a **Data Analyst** or **ML Engineer**
 
 ---
 
@@ -28,8 +29,8 @@ Currently seeking an internship in AI, Machine Learning, or Data Science, where 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logoColor=white)
 
 ### Core Competencies
 - **Machine Learning** - Supervised & Unsupervised Learning
@@ -48,7 +49,15 @@ AI-powered translation application leveraging OpenAI's API for accurate bilingua
 
 ---
 
+## GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayou-Azizkd&layout=compact&theme=radical)
+
+</div>
 
 ---
 
