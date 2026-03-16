@@ -29,7 +29,7 @@ Currently seeking opportunities as a **Data Analyst** or **ML Engineer**
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logoColor=white)
 
 ### Core Competencies
 - **Machine Learning** - Supervised & Unsupervised Learning
