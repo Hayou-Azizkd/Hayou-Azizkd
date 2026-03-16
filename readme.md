@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Abdoul Hayou Abdoul Aziz 👋
+====
 
 ### MSc Computer Science (Data & AI) Student at UQAM
 
