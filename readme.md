@@ -28,8 +28,8 @@ Currently seeking opportunities as a **Data Analyst** or **ML Engineer**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Core Competencies
 - **Machine Learning** - Supervised & Unsupervised Learning
