@@ -1,71 +1,60 @@
 <div align="center">
 
-# Hi, I'm Abdoul Hayou Abdoul Aziz 👋
-====
-
-### MSc Computer Science (Data & AI) Student at UQAM
-
-*Passionate about Machine Learning, Data Analytics, and AI Innovation*
+# Abdoul Hayou Abdoul Aziz
+### AI Engineer | Agentic Systems Specialist | MSc Student @ UQAM
+**Specializing in Multi-Agent Orchestration, Tool-Use (MCP), and AI Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hayou-Azizkd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulhayou34@gmail.com)
+
+*"Building autonomous systems that bridge the gap between LLM reasoning and real-world action."*
 
 </div>
 
 ---
 
-## About Me
+## My Agentic Journey
+I am a graduate researcher and developer dedicated to the transition from static chat interfaces to **Agentic Workflows**. My work focuses on building systems that can plan, use tools, and self-correct to solve complex, multi-step problems.
 
-I'm a graduate student specializing in Data Science and Artificial Intelligence at UQAM (Université du Québec à Montréal). I'm driven by the challenge of turning complex data into actionable insights and building intelligent systems that solve real-world problems. 
-
-Currently seeking Internships opportunities in Data science , ML or AI. 
-
----
-
-## Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logoColor=white)
-
-### Core Competencies
-- **Machine Learning** - Supervised & Unsupervised Learning
-- **Data Analytics** - Exploratory Data Analysis, Visualization
-- **Deep Learning** - Neural Networks, NLP
-- **Predictive Modelling** - Statistical Analysis, Forecasting
+### Core Agentic Stack
+- **Orchestration:** Multi-agent design patterns including Reflection, Tool-use, and Planning.
+- **Models & Tools:** Claude 3.5 (Claude Code), Gemini 2.5 Flash, GPT-4o-mini.
+- **Infrastructure:** Model Context Protocol (MCP), Google ADK, Streamlit.
+- **Governance:** Human-in-the-Loop (HITL), Risk-Scoring, and Responsible AI.
 
 ---
 
-## Featured Projects
+## Featured Agentic Implementations
 
-### [English-French Translator](https://github.com/Hayou-Azizkd/English-French-translator)
-AI-powered translation application leveraging OpenAI's API for accurate bilingual translation
+### [Intelligent Files Assistant (MCP)](https://github.com/Hayou-Azizkd/Agents_with_tools)
+A specialized implementation of the **Model Context Protocol (MCP)** using Google ADK.
+* **Agentic Capability:** Utilizes `list_directory` and `read_file` tools to autonomously explore and summarize local filesystems within a secure sandbox.
 
-*Technologies: Python, OpenAI API, Natural Language Processing*
+### [Multi-Agent Translation Workflow](https://github.com/Hayou-Azizkd/English-French-translator)
+An orchestration pipeline designed for high-precision linguistic tasks.
+* **Architecture:** Employs a **Translator-Feedback-Reviewer** loop.
+* **Logic:** Demonstrates agentic self-correction, where a Feedback agent critiques the draft before a Reviewer finalizes the output.
 
----
-
-
----
-
-## Contact
-
-I'm always interested in connecting with fellow data enthusiasts, potential collaborators, or employers! 
-
-**Email:** [Contact via LinkedIn](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)  
-**LinkedIn:** [Hayou Abdoul Aziz](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)  
-**GitHub:** [@Hayou-Azizkd](https://github.com/Hayou-Azizkd)
+### [Procurement AI Governance Framework](https://github.com/Hayou-Azizkd/procurement-ai-usecase-prioritization-poc)
+A business-facing Proof of Concept for identifying and prioritizing automated use cases.
+* **Governance:** Implements a scoring framework for AI feasibility and risk, ensuring a **Human-in-the-Loop** approach for enterprise safety.
 
 ---
 
+## Certifications & Continuous Learning
+* **Claude Code in Action** | Anthropic (2026)
+* **Agentic AI (Andrew Ng)** | DeepLearning.AI (2026)
+* **Foundations of Data Science** | Google (2025)
+
+---
+
+## Activity & Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
 <div align="center">
-
-*"Turning data into decisions, algorithms into action"*
-
-⭐ From [Hayou-Azizkd](https://github.com/Hayou-Azizkd)
-
+*"Turning data into decisions, and LLMs into autonomous agents."*
 </div>
