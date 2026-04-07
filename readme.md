@@ -5,7 +5,6 @@
 **Specializing in Multi-Agent Orchestration, Tool-Use (MCP), and AI Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hayou-Azizkd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulhayou34@gmail.com)
 
 *"Building autonomous systems that bridge the gap between LLM reasoning and real-world action."*
