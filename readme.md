@@ -49,9 +49,6 @@ A business-facing Proof of Concept for identifying and prioritizing automated us
 ---
 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 <div align="center">
