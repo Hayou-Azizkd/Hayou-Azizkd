@@ -50,9 +50,25 @@ A business-facing Proof of Concept for identifying and prioritizing automated us
 ---
 
 ## Activity & Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hayou-Azizkd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayou-Azizkd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hayou-Azizkd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayou-Azizkd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 <div align="center">
