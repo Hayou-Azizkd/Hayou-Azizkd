@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abdoul Hayou Abdoul Aziz
-### AI Engineer | Agentic Systems Specialist | MSc Student @ UQAM
+###  Agentic Systems Specialist | MSc Student @ UQAM
 **Specializing in Multi-Agent Orchestration, Tool-Use (MCP), and AI Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayou-abdoul-aziz-847540188/)
