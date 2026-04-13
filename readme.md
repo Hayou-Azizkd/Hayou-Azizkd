@@ -14,7 +14,7 @@
 ---
 
 ## My Agentic Journey
-I am a graduate researcher and developer dedicated to the transition from static chat interfaces to **Agentic Workflows**. My work focuses on building systems that can plan, use tools, and self-correct to solve complex, multi-step problems.
+I am a graduate student and developer dedicated to the transition from static chat interfaces to **Agentic Workflows**. My work focuses on building systems that can plan, use tools, and self-correct to solve complex, multi-step problems.
 
 ### Core Agentic Stack
 - **Orchestration:** Multi-agent design patterns including Reflection, Tool-use, and Planning.
